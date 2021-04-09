@@ -1,0 +1,25 @@
+.toDo {
+  margin-bottom: 1rem;
+}
+
+.toDo span.completed {
+  text-decoration: line-through;
+}
+
+.toDo label {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  cursor: pointer;
+  padding: 1rem;
+  background: #f3f3f3;
+}
+
+.todo li {
+  z-index: 2;
+}
+
+.brand-logo {
+  margin-left: 1em;
+}
